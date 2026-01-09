@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning GIS programming using Python.<br>💬 Ask me about anything an everything.<br>⚡ Fun fact: My first line of code was not "Hello World!"
+🌱 I’m a full stack develover.
 
 
 ## 🌐 Socials:
