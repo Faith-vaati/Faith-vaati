@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Faith-vaati&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-![Meme](https://meme-api.com/gimme)
+![Dev Meme](https://api.memegen.link/images/drake/\"writing_code/\"/\"writing_code_without_testing\".png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Faith-vaati&icon=5&color=0)](https://visitcount.itsvg.in)
